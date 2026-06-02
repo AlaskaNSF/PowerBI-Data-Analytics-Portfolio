@@ -58,7 +58,7 @@ Desarrollo de un dashboard ejecutivo para la dirección financiera de una empres
 *Vista del Dashboard:*
 ![Dashboard Financiero](./img/dashboard_finanzas.png)
 
-** 📈 Insights de Negocio y Conclusiones Clave: **
+**📈 Insights de Negocio y Conclusiones Clave:**
 
 *Salud Financiera y Carga Impositiva:* El negocio presenta una estructura sana con un margen operativo del 37.58% y una utilidad neta consolidada de $35.5M frente a ingresos por $94.6M. Resulta vital destacar que la carga tributaria ($14.1M) representa un peso significativo sobre los pagos realizados ($44.8M), lo que subraya la importancia de una correcta planificación fiscal y previsión de liquidez para el cumplimiento de obligaciones.
 
